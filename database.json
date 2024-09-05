@@ -1,0 +1,55 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "description": "My first post",
+        "topicsId": 1
+      },
+      {
+        "id": 2,
+        "description": "Learning JavaScript",
+        "topicsId": 2
+      },
+      {
+        "id": 3,
+        "description": "Exploring React hooks",
+        "topicsId": 2
+      },
+      {
+        "id": 4,
+        "description": "Introduction to APIs",
+        "topicsId": 1
+      },
+      {
+        "id": 5,
+        "description": "Understanding CSS Grid",
+        "topicsId": 2
+      },
+      {
+        "id": 6,
+        "description": "Database design basics",
+        "topicsId": 1
+      }
+    ],
+    "topics": [
+      {
+        "id": 1,
+        "topic": "Introduction"
+      },
+      {
+        "id": 2,
+        "topic": "Programming"
+      }
+    ],
+    "likes": []
+  }
