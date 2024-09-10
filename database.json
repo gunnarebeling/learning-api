@@ -2,13 +2,13 @@
     "users": [
       {
         "id": 1,
-        "name": "John Doe",
+        "fullName": "John Doe",
         "email": "johndoe@example.com",
         "cohort": 1
       },
       {
         "id": 2,
-        "name": "Jane Smith",
+        "fullName": "Jane Smith",
         "email": "janesmith@example.com",
         "cohort": 2
       }
