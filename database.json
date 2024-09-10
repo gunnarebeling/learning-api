@@ -1,65 +1,71 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "fullName": "John Doe",
-        "email": "johndoe@example.com",
-        "cohort": 1
-      },
-      {
-        "id": 2,
-        "fullName": "Jane Smith",
-        "email": "janesmith@example.com",
-        "cohort": 2
-      }
-    ],
-    "posts": [
-      {
-        "id": 1,
-        "description": "My first post",
-        "title": "Getting Started",
-        "topicsId": 1
-      },
-      {
-        "id": 2,
-        "description": "Learning JavaScript",
-        "title": "JavaScript Basics",
-        "topicsId": 2
-      },
-      {
-        "id": 3,
-        "description": "Exploring React hooks",
-        "title": "React Hooks Deep Dive",
-        "topicsId": 2
-      },
-      {
-        "id": 4,
-        "description": "Introduction to APIs",
-        "title": "API Fundamentals",
-        "topicsId": 1
-      },
-      {
-        "id": 5,
-        "description": "Understanding CSS Grid",
-        "title": "CSS Grid Layout",
-        "topicsId": 2
-      },
-      {
-        "id": 6,
-        "description": "Database design basics",
-        "title": "Database Design 101",
-        "topicsId": 1
-      }
-    ],
-    "topics": [
-      {
-        "id": 1,
-        "topic": "Introduction"
-      },
-      {
-        "id": 2,
-        "topic": "Programming"
-      }
-    ],
-    "likes": []
-  }
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "johndoe@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "janesmith@example.com",
+      "cohort": 2
+    },
+    {
+      "email": "gunnarebeling@gmail.com",
+      "fullName": "Gunnar Ebeling",
+      "cohort": 72,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "description": "My first post",
+      "title": "Getting Started",
+      "topicsId": 1
+    },
+    {
+      "id": 2,
+      "description": "Learning JavaScript",
+      "title": "JavaScript Basics",
+      "topicsId": 2
+    },
+    {
+      "id": 3,
+      "description": "Exploring React hooks",
+      "title": "React Hooks Deep Dive",
+      "topicsId": 2
+    },
+    {
+      "id": 4,
+      "description": "Introduction to APIs",
+      "title": "API Fundamentals",
+      "topicsId": 1
+    },
+    {
+      "id": 5,
+      "description": "Understanding CSS Grid",
+      "title": "CSS Grid Layout",
+      "topicsId": 2
+    },
+    {
+      "id": 6,
+      "description": "Database design basics",
+      "title": "Database Design 101",
+      "topicsId": 1
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "topic": "Introduction"
+    },
+    {
+      "id": 2,
+      "topic": "Programming"
+    }
+  ],
+  "likes": []
+}
