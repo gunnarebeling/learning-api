@@ -2,11 +2,15 @@
     "users": [
       {
         "id": 1,
-        "name": "John Doe"
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "cohort": 1
       },
       {
         "id": 2,
-        "name": "Jane Smith"
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "cohort": 2
       }
     ],
     "posts": [
