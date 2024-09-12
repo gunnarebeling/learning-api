@@ -57,15 +57,6 @@
       "body": "APIs are an essential part of modern web development. I learned about RESTful APIs, how to make GET and POST requests, and handle responses using fetch."
     },
     {
-      "id": 5,
-      "description": "Understanding CSS Grid",
-      "title": "CSS Grid Layout",
-      "topicsId": 2,
-      "usersId": 2,
-      "date": "2024-09-07T12:30:00.000Z",
-      "body": "CSS Grid is a powerful layout system that allows for the creation of complex, responsive layouts with ease. I've been experimenting with grid-template-rows and columns."
-    },
-    {
       "id": 6,
       "description": "Database design basics",
       "title": "Database Design 101",
@@ -73,15 +64,6 @@
       "usersId": 3,
       "date": "2024-09-06T11:20:00.000Z",
       "body": "Good database design is the foundation of scalable applications. I covered the basics of normalization, relationships, and indexing for optimized performance."
-    },
-    {
-      "usersId": 2,
-      "title": "Routes",
-      "description": "this post is all about",
-      "date": "2024-09-11T21:04:45.595Z",
-      "topicsId": 2,
-      "body": "this post is all about routes",
-      "id": 7
     }
   ],
   "topics": [
